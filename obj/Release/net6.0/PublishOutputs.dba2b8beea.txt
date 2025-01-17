@@ -1,0 +1,7 @@
+/mnt/c/Users/azizs/AzizWebApp/AzizWebApp/bin/Release/net6.0/publish/AzizWebApp
+/mnt/c/Users/azizs/AzizWebApp/AzizWebApp/bin/Release/net6.0/publish/appsettings.Development.json
+/mnt/c/Users/azizs/AzizWebApp/AzizWebApp/bin/Release/net6.0/publish/appsettings.json
+/mnt/c/Users/azizs/AzizWebApp/AzizWebApp/bin/Release/net6.0/publish/AzizWebApp.dll
+/mnt/c/Users/azizs/AzizWebApp/AzizWebApp/bin/Release/net6.0/publish/AzizWebApp.deps.json
+/mnt/c/Users/azizs/AzizWebApp/AzizWebApp/bin/Release/net6.0/publish/AzizWebApp.runtimeconfig.json
+/mnt/c/Users/azizs/AzizWebApp/AzizWebApp/bin/Release/net6.0/publish/AzizWebApp.pdb

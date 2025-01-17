@@ -1,0 +1,7 @@
+C:\Users\azizs\AzizWebApp\AzizWebApp\bin\Release\net6.0\publish\AzizWebApp.exe
+C:\Users\azizs\AzizWebApp\AzizWebApp\bin\Release\net6.0\publish\appsettings.Development.json
+C:\Users\azizs\AzizWebApp\AzizWebApp\bin\Release\net6.0\publish\appsettings.json
+C:\Users\azizs\AzizWebApp\AzizWebApp\bin\Release\net6.0\publish\AzizWebApp.dll
+C:\Users\azizs\AzizWebApp\AzizWebApp\bin\Release\net6.0\publish\AzizWebApp.deps.json
+C:\Users\azizs\AzizWebApp\AzizWebApp\bin\Release\net6.0\publish\AzizWebApp.runtimeconfig.json
+C:\Users\azizs\AzizWebApp\AzizWebApp\bin\Release\net6.0\publish\AzizWebApp.pdb
